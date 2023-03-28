@@ -1,0 +1,13 @@
+//
+//  AppDelegate.swift
+//  Challenge_2-1
+//
+//  Created by user228564 on 3/28/23.
+//
+
+import UIKit
+
+@main
+class AppDelegate: UIResponder, UIApplicationDelegate {
+    var window: UIWindow?
+}
